@@ -63,7 +63,14 @@ Guiding Question:
 - What is the project - The Features Display Website is a responsive, multi-page website built using HTML, CSS, and JavaScript. It showcases various web design features across different pages, including Home, About, Contact, FAQ, and Portfolio, each with unique layouts and design elements.
 - Whats the purpose - The purpose of this project is to demonstrate and highlight a range of web design and development skills.
 - What are key components - Home Page: Introduction to the website with a summary of features. About Page: Information about the project or the developer. Contact Page: A form for users to reach out. FAQ Page: Answers to frequently asked questions. Portfolio Page: Showcases past projects or works.
-- What technology used and how it is used
+- What technology used and how it is used - HTML: The backbone of the website, providing structure and content.
+CSS: Used for styling the website, making it visually appealing and responsive.
+JavaScript: Adds interactivity and dynamic content to the web pages.
+Bootstrap: A CSS framework for creating responsive layouts and components.
+Font Awesome: Provides a library of icons for enhancing visual elements.
+Google Fonts: Used for custom fonts to improve typography.
+Material UI: A React component library for implementing Google's Material Design.
+TailWind: A utility-first CSS framework for quickly styling elements directly in HTML
 
 ### Key Components
 <!-- TODO: List of Key Components -->
