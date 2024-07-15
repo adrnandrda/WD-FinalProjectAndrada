@@ -124,6 +124,6 @@ WD-FinalProjectAndrada
 ## Resources
 
 <!-- TODO: Add References -->
-| Contact | For Contact Photo | [[https://github.com/adrnandrda/WD-FinalProjectAndrada.git](https://rb.gy/0jpzsb)](https://rb.gy/0nx0t7) |
+| Contact | For Contact Photo | (https://rb.gy/0nx0t7) |
 |-|-|-|
 | Background | For Background Photo | https://rb.gy/wzg6jt |
