@@ -122,6 +122,6 @@ WD-FinalProjectAndrada
 ## Resources
 
 <!-- TODO: Add References -->
-| FinalProjectAndrada | Purpose | [[https://github.com/adrnandrda/WD-FinalProjectAndrada.git](https://rb.gy/0jpzsb)](https://rb.gy/0nx0t7) |
+| Contact | For Contact Photo | [[https://github.com/adrnandrda/WD-FinalProjectAndrada.git](https://rb.gy/0jpzsb)](https://rb.gy/0nx0t7) |
 |-|-|-|
-| FinalProjectAndrada | The purpose of this Features Display Website project is to demonstrate and showcase a range of web design and development skills using fundamental web technologies such as HTML, CSS, and JavaScript | [[https://github.com/adrnandrda/WD-FinalProjectAndrada.git](https://rb.gy/0nx0t7)](https://rb.gy/0jpzsb) |
+| Background | For Background Photo | [[https://github.com/adrnandrda/WD-FinalProjectAndrada.git](https://rb.gy/0nx0t7)](https://rb.gy/0jpzsb) |
