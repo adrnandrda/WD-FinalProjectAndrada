@@ -117,4 +117,4 @@ WD-FinalProjectAndrada
 <!-- TODO: Add References -->
 | FinalProjectAndrada | Purpose | Link |
 |-|-|-|
-| FinalProjectAndrada | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| FinalProjectAndrada | The purpose of this Features Display Website project is to demonstrate and showcase a range of web design and development skills using fundamental web technologies such as HTML, CSS, and JavaScript | trykolang.com |
