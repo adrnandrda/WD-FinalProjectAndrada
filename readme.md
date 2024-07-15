@@ -75,9 +75,11 @@ TailWind: A utility-first CSS framework for quickly styling elements directly in
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Home Page: Introduction to the website with a summary of features.
+- About Page: Information about the project or the developer.
+- Contact Page: A form for users to reach out.
+- FAQ Page: Answers to frequently asked questions.
+- Portfolio Page: Showcases past projects or works.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
