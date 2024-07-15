@@ -99,7 +99,7 @@ TailWind: A utility-first CSS framework for quickly styling elements directly in
 7. File Structure to follow below.
 
 ```
-WD-FinalProjectAndrada
+WD-Final
 └─ assets
 |   └─ css
 |   |   └─ style.css
