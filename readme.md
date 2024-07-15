@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">FinalProject</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project is a responsive, multi-page website built using pure HTML, CSS, and JavaScript. It showcases different web design features across pages like Home, About, Contact, FAQ, and Portfolio. The site employs modern design libraries such as Bootstrap, Font Awesome, Google Fonts, Material UI, and TailWind to create an engaging user experience. Each page is uniquely designed to demonstrate various aspects of web development and design, making it a comprehensive display of web design capabilities.
 </div>
 
 <br />
@@ -90,7 +90,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-FinalProjectAndrada
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -115,6 +115,6 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
+| FinalProjectAndrada | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| FinalProjectAndrada | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
